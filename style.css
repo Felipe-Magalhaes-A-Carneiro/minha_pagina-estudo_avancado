@@ -1,0 +1,56 @@
+#img {
+  width: 100%;
+  padding: 0%;
+}
+
+h1 {
+  font-size: 54px;
+  font-family:verdana;
+  text-align: center;
+  padding: 0%;
+  margin: 0%;
+  color: rgb(255, 255, 255);
+  background-color: #28353d;
+}
+
+p {
+    text-align: center;
+    font-family:verdana;
+    font-size: 34px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.titulo {
+    color: aliceblue;
+    text-align: left;
+    font-family:verdana;
+    font-size: 24px;
+    padding: 5%;
+    margin: 1%;
+}
+
+.resumo {
+    color: aliceblue;
+    text-align: center;
+    font-family:verdana;
+    font-size: 22px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.salvos {
+    background-color: #28353d;
+    width: 33%;
+}
+
+.adicionar {
+    background-color: #28353d;
+    width: 33%;
+}
+
+.pesquisar {
+    background-color: #28353d;
+    width: 33%;
+}
+
