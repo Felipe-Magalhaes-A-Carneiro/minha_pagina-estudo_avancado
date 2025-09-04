@@ -1,56 +1,73 @@
 #img {
   width: 100%;
   padding: 0%;
+  margin: auto;
 }
 
-h1 {
+header {
   font-size: 54px;
-  font-family:verdana;
+  font-family: verdana;
   text-align: center;
   padding: 0%;
-  margin: 0%;
+  margin: auto;
   color: rgb(255, 255, 255);
   background-color: #28353d;
 }
 
 p {
-    text-align: center;
-    font-family:verdana;
-    font-size: 34px;
-    padding: 0%;
-    margin: 0%;
+  text-align: center;
+  font-family: verdana;
+  font-size: 34px;
+  padding: 0%;
+  margin: 0%;
 }
 
 .titulo {
-    color: aliceblue;
-    text-align: left;
-    font-family:verdana;
-    font-size: 24px;
-    padding: 5%;
-    margin: 1%;
+  color: aliceblue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 24px;
+  padding: 5%;
+  margin: 1%;
 }
 
 .resumo {
-    color: aliceblue;
-    text-align: center;
-    font-family:verdana;
-    font-size: 22px;
-    padding: 0%;
-    margin: 0%;
+  color: aliceblue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 16px;
+  padding: 0%;
+  margin: 0%;
 }
 
 .salvos {
-    background-color: #28353d;
-    width: 33%;
+  background-color: #e9c939;
+  width: 33%;
+  border-radius: 25px 25px 0px 0px;
 }
-
+.divisoria {
+    width: 100%;
+    height: 10px;
+    background-color: #e9c939;
+}
 .adicionar {
-    background-color: #28353d;
-    width: 33%;
+  background-color: #e9c939;
+  width: 33%;
+  border-radius: 25px 25px 0px 0px;
 }
 
 .pesquisar {
-    background-color: #28353d;
-    width: 33%;
+  background-color: #e9c939;
+  width: 33%;
+  border-radius: 25px 25px 0px 0px;
 }
 
+.github {
+  font-family: verdana;
+  text-align: center;
+  padding:10px;
+  margin-top:5px;
+  color: rgb(255, 255, 255);
+  background-color: #28353d;
+  border-radius:10px;
+}
